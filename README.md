@@ -1,8 +1,8 @@
 # HR-Analytics-Job-Change-of-Data-Scientists
-For this project I focus why data scientists change the job
-(1) the factors they change the job
-(2) which factors are most important
-(3) How strong the relationship
+For this project I focus why data scientists change the job.
+- finding the factors they change the job ?
+- which factors are most important ?
+- How strong the relationships ?
 
 Python Libraries
 The following libraries were used in our Jupyter Notebook. Code was programmed in Python 3.
