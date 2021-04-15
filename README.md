@@ -1,11 +1,12 @@
 # HR-Analytics-Job-Change-of-Data-Scientists
 1. For this project I focus why data scientists change the job.
-- finding the factors they change the job ?
+- finding reasons they change the job ?
 - which factors are most important ?
 - How strong the relationships ?
 
 2. Python Libraries
-The following libraries were used in our Jupyter Notebook. Code was programmed in Python 3.
+<br>The following libraries were used in our Jupyter Notebook. 
+Code was programmed in Python 3.
 - NumPy
 - Pandas
 - Matplotlib
@@ -13,7 +14,7 @@ The following libraries were used in our Jupyter Notebook. Code was programmed i
 - Sckit Learn
 
 3. File Descriptions
-Hr.ipynb: Jupyter notebook with analysis, answers to the questions, explanations and visualizations
-
+<br> Hr.ipynb: Jupyter notebook with analysis, answers to the questions, explanations and visualizations
+<br> Medium: https://jiruoxia.medium.com/job-change-of-data-scientists-c6e4bc9ae6be
 - aug_train.csv: Original dataset in csv format
 - aug_test.csv: Original dataset in csv format 
