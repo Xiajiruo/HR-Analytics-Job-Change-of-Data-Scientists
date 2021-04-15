@@ -6,7 +6,7 @@
 
 2. Python Libraries
 <br>The following libraries were used in our Jupyter Notebook. 
-Code was programmed in Python 3.
+<br>Code was programmed in Python 3.
 - NumPy
 - Pandas
 - Matplotlib
