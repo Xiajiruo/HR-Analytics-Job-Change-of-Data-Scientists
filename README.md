@@ -16,5 +16,6 @@ Code was programmed in Python 3.
 3. File Descriptions
 <br> Hr.ipynb: Jupyter notebook with analysis, answers to the questions, explanations and visualizations
 <br> Medium: https://jiruoxia.medium.com/job-change-of-data-scientists-c6e4bc9ae6be
+<br> This dataset is came from: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 - aug_train.csv: Original dataset in csv format
 - aug_test.csv: Original dataset in csv format 
