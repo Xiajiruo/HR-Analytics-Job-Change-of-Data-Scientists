@@ -15,5 +15,5 @@ The following libraries were used in our Jupyter Notebook. Code was programmed i
 3. File Descriptions
 Hr.ipynb: Jupyter notebook with analysis, answers to the questions, explanations and visualizations
 
-aug_train.csv: Original dataset in csv format
-aug_test.csv: Original dataset in csv format 
+- aug_train.csv: Original dataset in csv format
+- aug_test.csv: Original dataset in csv format 
