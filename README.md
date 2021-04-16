@@ -4,7 +4,7 @@
 - which factors are most important ?
 - How strong the relationships ?
 
-Summay: the city index is the most significant variables, especailly for squared varaibles. there  is ranked top 1 by the algorithms.
+Summay: the city index is the most significant variables, especailly for squared index. there is ranked top 1 by the algorithms.
 
 2. Python Libraries
 <br>The following libraries were used in our Jupyter Notebook. 
